@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Java, UML and Android dev*
 
-- 💬 Ask me about *C, C++, Java ...*
+- 💬 Ask me about *C, Python, Java ...*
 
 - 📫 How to reach me *check my email or my LinkedIn*
 
