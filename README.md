@@ -1,3 +1,5 @@
+
+![mygif](https://github.com/HafsaTATA/HafsaTATA/assets/120058921/0f049184-f44a-4269-b87b-de2a7c1d7a73)
 <h1 align="center">Hi 👋, I'm HAFSA TATA</h1>
 <h3 align="center">I'm a Computer Science Student</h3>
 
@@ -56,7 +58,6 @@
 
 <h3 align="center">Thanks for reviewing my account</h3>
 
-![mygif](https://github.com/HafsaTATA/HafsaTATA/assets/120058921/0f049184-f44a-4269-b87b-de2a7c1d7a73)
 
 
 
