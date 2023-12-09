@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm HAFSA TATA</h1>
 <h3 align="center">I'm a Computer Science Student</h3>
 
-- 🌱 I’m currently learning *Java, UML and Android dev*
+- 🌱 I’m currently learning *C#, UML and Android dev using React native*
 
-- 💬 Ask me about *C#, Python, Java ...*
+- 💬 I'm very passionate about mobile development *Kotlin, React native, java...*
 
 - 📫 How to reach me *check my email or my LinkedIn*
 
